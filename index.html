@@ -7,6 +7,9 @@ title: MQuotient | Blog
 {% for post in site.posts %}
 
     <div class="post">
+        <div class="img">
+            <img src="/images/posts/{{ post.image }}.png" />
+        </div>
         <div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div> 
         <div class="date">By {{ post.author }} on {{ post.date | date_to_long_string }}</div>
         <div class="summary">{{ post.summary }}</div>

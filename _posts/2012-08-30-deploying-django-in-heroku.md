@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Deploying Django in Heroku
+image: heroku
 author: Rag Sagar
 authorlink: 
 summary: Most of the django developers know how hard it is to deploy django. Most people worry about not being able to concentrate more on coding because of the time they need to invest on managing servers. Making the hard part easier heroku makes the django deployment a piece of cake. Heroku is a Platform as a Service provider which runs on top of aws platform. Here I am going to create a sample django app and going to deploy it in the heroku cloud.

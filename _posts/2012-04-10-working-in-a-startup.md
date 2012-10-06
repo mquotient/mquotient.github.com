@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Working in a Startup
+image: startup
 author: Satyajit Ranjeev
 authorlink: http://satyajit.ranjeev.in
 summary: Seven months back I made the decision of leaving Bangkok and returning to India. Making the move was a thing I felt I had to do. My work was getting less challenging and needed something new to toy around with. Joining a startup was definitely something new.

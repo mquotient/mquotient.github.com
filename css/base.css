@@ -115,6 +115,9 @@ pre code {
     font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 20px;
 }
+.post .image img{
+    max-width: 300px;
+}
 
 .post .title{
     font-size: 2em;
