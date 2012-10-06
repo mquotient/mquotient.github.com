@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="cache-control" content="no-cache">
+    <title>{{ page.title }}</title>
+
+    <!-- CSS GRID -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+    <link rel="shortcut icon" href="/images/favicon.png" />  
+
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="/css/base.css" type="text/css" />
+
+</head>
+<body>
+    <div class="container">
+        <div id="menu">
+            <ul>
+                <!-- <li class="logo"><a href="/"><img src="/images/logo2.png" /></a></li> -->
+                <li class="logo"><a href="/">m<span class="grey">quotient</a></li>
+                <li><a href="/about/"><img src="/images/icons/about-black.png" /></a></li>
+                <li><a href="/contact/"><img src="/images/icons/email-black.png" /></a></li>
+                <li><a href="/feed.xml"><img src="/images/icons/rss-black.png" /></a></li>
+            </ul>
+        </div>
+
+
+        <div id="main">
+            <div class="content">
+                {{ content }}
+            </div>
+        </div><!-- #main -->
+
+
+    </div><!-- #container -->
+</body>
+</html>
