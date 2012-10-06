@@ -93,6 +93,8 @@ pre code {
     color: #738A97;
 }
 #menu .logo{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
     float: left;
     font-size: 2em;
 }
