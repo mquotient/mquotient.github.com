@@ -5,7 +5,7 @@ author: Sreejith Narayanan
 authorlink: http://sreejithn.tumblr.com
 summary: A personal rant on the over emphasis placed on improving programming efficiency through over analysis of loops and the difficulty of doing parallel programming in most of popular languages
 ---
-Before I start on the topic, I want to make is clear that I am aware of funcational programming languages and they might be the answer to a lot of issues raised in this post.  However I do not have any clear idea about what they are and what they do.  Also my lack of a formal knowledge of computer science may have resulted in many factual errors in the following.  Most of my opinions about 
+Before I start on the topic, I want to make is clear that I am aware of funcational programming languages and they might be the answer to a lot of issues raised in this post.  However I do not have any clear idea about what they are and what they do.  Also my lack of a formal knowledge of computer science may have resulted in many factual errors in the following.
 
 Ever since Computer Science evolved as a discipline, one of the most studied topic has been optimisation of algorithms for minimising time and resource utilisation.  One of the most know tool for this is of course the *O-notation* for identifying the order of complexity of the code.  From my observation of my colleagues implementing this in their daily work, this seems to have the primary objective of minimising CPU cycles that your code will execute.
 
