@@ -2,7 +2,7 @@
 layout: post
 title: Rant On Parallel Computing
 author: Sreejith Narayanan
-authorlink: http://sreejithn.tumblr.com
+authorlink: http://sreejithhere.wordpress.com
 summary: A personal rant on the over emphasis placed on improving programming efficiency through over analysis of loops and the difficulty of doing parallel programming in most of popular languages
 ---
 Before I start on the topic, I want to make it clear that I am aware of functional programming languages and they might be the answer to a lot of issues raised in this post.  However I do not have any clear idea about what they are and what they do.  Also my lack of a formal knowledge of computer science may have resulted in many factual errors in the following.
