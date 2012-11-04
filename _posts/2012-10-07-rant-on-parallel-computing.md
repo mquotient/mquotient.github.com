@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rant On Parallel Computing
+image: languages
 author: Sreejith Narayanan
 authorlink: http://sreejithhere.wordpress.com
 summary: A personal rant on the over emphasis placed on improving programming efficiency through over analysis of loops and the difficulty of doing parallel programming in most of popular languages
