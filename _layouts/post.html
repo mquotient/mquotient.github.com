@@ -3,7 +3,7 @@ layout: default
 ---
 <div id="post">
     <h1 class="title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-    <h3 class="author"><a href="page.authorlink">{{ page.author }}</a></h3>
+    <h3 class="author"><a href="{{ page.authorlink }}">{{ page.author }}</a></h3>
     <p class="date">{{ page.date | date: "%d %b %Y" }}</p>
     {{ content }}
 
