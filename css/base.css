@@ -91,6 +91,9 @@ pre code {
 #menu .logo{
     float: left;
 }
+#menu .logo img{
+    height: 48px;
+}
 #main{
     padding: 1em;
 }
